@@ -13,6 +13,6 @@ MovieFix is an Android application developed as part of the Mobile Application D
 - Save favorite movies
 
 ## Technologies Used
-- Kotlin
+- Java
 - Android Jetpack components
 - MVVM Architecture
